@@ -12,9 +12,6 @@ Imagine yourself as the applicant for this role and perform the following task
 Other resources Provided:
 
 a.    Dataset required to provide 
-
 b.    Metadata
-
 c.    Hints (try not to use the hints to develop your skills quicker)
-
 d.    Sample questions and Presentation
